@@ -4,7 +4,8 @@ QuickWKT Qgis Plugin
 This Qgis Plugin makes it possible to show features in QGIS using WKT
 
 This plugin is supposed to be installed via the plugin manager of QGIS
-
+ 
+Ce projet est géré par Git
 
 Code: https://github.com/elpaso/quickwkt
 
